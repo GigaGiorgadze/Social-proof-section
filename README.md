@@ -2,6 +2,9 @@
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
+# live page
+you can view website live at following URL: https://gigagiorgadze.github.io/Social-proof-section/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
